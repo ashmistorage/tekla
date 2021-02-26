@@ -1,1 +1,2 @@
-1 nd file
+secound file 
+Its test fot git repository.
