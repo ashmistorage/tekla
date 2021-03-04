@@ -1,0 +1,36 @@
+page("TeklaStructures","")
+{
+   joint(1, "Side Runner (1R)")
+   {
+       tab_page("", " Bracket ", 1)
+       {
+           picture("SR-SEAM", 315, 129, 50, 100)
+           parameter("Name", "P1", string, text, 11)
+           parameter("Profile", "P2", profile, text, 12)
+           parameter("Material", "P3", material, text, 13)
+           parameter("Class", "P4", integer, number, 14)
+           
+           parameter("", "D3", distance, number, 100, 145, 80)
+           parameter("", "D7", distance, number, 530, 170, 70)
+           parameter("", "D11", distance, number, 530, 120, 70)
+           parameter("", "D12", distance, number, 380, 70, 70)
+           
+       }
+       tab_page("", " Bolts ", 2)
+       {
+           picture("SR-SEAM-Bolts", 315, 129, 50, 100)
+           parameter("", "P5", distance_list, text, 405, 70, 60)
+           parameter("", "P6", distance_list, text, 590, 185, 60)
+           parameter("Bolt Size", "P7_diameter", bolt_size, number, 11)
+           parameter("Bolt Standard", "P7_screwdin", bolt_standard, text, 12)
+           parameter("Bolt - Site/Shop", "P9", bolt_type, number, 13)
+           parameter("", "D13", distance, number, 490, 70, 60)
+       }
+       tab_page("", " Welds ", 3)
+       {
+           parameter("Weld Size", "P8", integer, number, 1)
+           parameter("Weld type", "P10", weld_type, number, 2)
+           parameter("Weld Site/Shop", "P11", welding_site, number, 3)
+       }
+   }
+}

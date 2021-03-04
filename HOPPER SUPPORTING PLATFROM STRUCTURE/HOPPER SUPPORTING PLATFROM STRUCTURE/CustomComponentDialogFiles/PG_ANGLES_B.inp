@@ -1,0 +1,34 @@
+page("Xsteel","")
+{
+   macro(1, "PG_ANGLES_B")
+   {
+       tab_page("", " Picture ", 1)
+       {
+           picture("plated_I_angle", 255,350,100,70)
+	   parameter("", "P2", distance, number, 460,300,50)
+           parameter("", "P1", distance, number, 60,300,50)
+           parameter("", "P3", distance, number, 60,345,50)
+           parameter("", "P4", distance, number, 460,345,50)
+           parameter("", "P5", distance, number, 440,120,50)
+           parameter("", "P6", distance, number, 270,60,50)
+           parameter("", "P8", distance, number, 70,105,50)
+           parameter("", "P9", distance, number, 70,170,50)
+           parameter("", "P10", distance, number, 440,240,50)
+           parameter("", "P11", distance, number, 270,280,50)
+           parameter("", "P13", distance, number, 340,190,50)
+           parameter("", "P15", profile, text, 360,155,100)
+           parameter("Weld Size", "P17", integer, number, 16)
+           parameter("Weld Type", "P18", weld_type, number, 17)
+           parameter("Material", "P19", material, text, 18)
+           
+       }
+  tab_page("", " Numbering Series ", 2)
+       {
+           picture("numbering_series", 450,150,50,50)
+           parameter("", "P20", string, text, 300,100,75)
+           parameter("", "P21", integer, number, 500,100,75)
+           parameter("", "P22", string, text, 300,130,75)
+           parameter("", "P23", integer, number, 500,130,75)
+}
+   }
+}

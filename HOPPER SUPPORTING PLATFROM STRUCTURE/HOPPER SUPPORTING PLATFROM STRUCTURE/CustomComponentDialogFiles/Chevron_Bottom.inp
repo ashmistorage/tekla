@@ -1,0 +1,18 @@
+page("TeklaStructures","")
+{
+   joint(1, "Chevron_Bottom")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Name", "P1", string, text, 1)
+           parameter("Profile", "P2", profile, text, 2)
+           parameter("Material", "P3", material, text, 3)
+           parameter("Finish", "P4", string, text, 4)
+           parameter("Class", "P5", string, text, 5)
+           parameter("Part Prefix", "P6", string, text, 6)
+           parameter("Part No", "P7", integer, number, 7)
+           parameter("Assembly Prefix", "P8", string, text, 8)
+           parameter("Assembly No", "P9", integer, number, 9)
+       }
+   }
+}

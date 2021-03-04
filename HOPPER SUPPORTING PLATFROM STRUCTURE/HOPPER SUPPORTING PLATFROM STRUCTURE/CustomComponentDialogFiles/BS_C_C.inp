@@ -1,0 +1,41 @@
+page("TeklaStructures", "")
+{
+    macro(1, "BS_C_C")
+    {
+        tab_page("", " Picture", 1)
+        {
+            picture("EIL_C_BOX_R1", 166, 136, 425, 170)
+            parameter("", "P2", distance, number, 250, 40, 100)
+            picture("BOX_COL", 189, 340, 42, 65)
+            parameter("", "P1", distance, number, 250, 370, 100)
+            parameter("", "P4", distance, number, 690, 245, 60)
+        }
+
+        tab_page("", "Parts", 2)
+
+        {
+            profile ("Profile ", PR1, PR2, PR3, PR4, PR5, 1)
+            attribute("", "Assembly Name", label, "%s", none, none, "0", "0", 18, 100 )
+            parameter("", "NAME", string, text, 200, 100, 140)
+        }
+
+       tab_page("", "Welds", 3)
+        
+       {
+	attribute("Header1", "No       Size                 Type                         Length", label, "%s", no, none, "0.0", "0.0") 
+	attribute("Header2", "Wshop/site", label, "%s", no, none, "0.0", "0.0",395,0) 
+
+	attribute("weld", "1", label, "%s", no, none, "0.0", "0.0",2) 
+	parameter("", "WA1", distance, number, 64,30,60) 
+	parameter("", "WB1", distance, number, 64,56,60) 
+	parameter("", "WA2", weld_type, number, 160,30,100) 
+	parameter("", "WB2", weld_type, number, 160,56,100) 
+	parameter("", "WA3", distance, number, 294,30,60) 
+	parameter("", "WB3", distance, number, 294,56,60) 
+	parameter("", "WSS", welding_site, number, 398,43,60) 
+
+        }
+
+
+    }
+}

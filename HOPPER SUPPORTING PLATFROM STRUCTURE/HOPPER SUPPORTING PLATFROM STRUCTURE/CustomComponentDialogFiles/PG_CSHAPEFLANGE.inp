@@ -1,0 +1,30 @@
+page("Xsteel","")
+{
+   macro(1, "PG_CSHAPEFLANGE")
+   {
+      tab_page("", " Picture ", 1)
+       {
+           picture("EIL_I_flange_C_shape", 240,150,100,50)
+	   parameter("", "P1", distance, number, 440,50,50)
+           parameter("", "P2", distance, number, 250,230,75)
+           parameter("", "P3", distance, number, 440,190,50)
+           parameter("", "P6", distance, number, 440,130,75)
+           parameter("", "P7", distance, number, 325,140,50)
+           parameter("", "P9", distance, number, 120,120,50)
+           parameter("", "P10", distance, number, 30,75,75)
+           parameter("Weld Size", "P12", integer, number, 13)
+           parameter("Weld Type", "P13", weld_type, number, 14)
+           parameter("Material", "P14", material, text, 15)
+           
+       }
+
+       tab_page("", " Numbering Series ", 2)
+       {
+           picture("numbering_series", 450,150,50,50)
+           parameter("", "P15", string, text, 300,100,75)
+           parameter("", "P16", integer, number, 500,100,75)
+           parameter("", "P17", string, text, 300,130,75)
+           parameter("", "P18", integer, number, 500,130,75)
+}
+   }
+}

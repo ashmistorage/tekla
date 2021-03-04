@@ -1,0 +1,24 @@
+dia_rev_handl.revh_mark "b"
+dia_rev_handl.revh_date1 0
+dia_rev_handl.revh_date2 0
+dia_rev_handl.revh_date3 0
+dia_rev_handl.revh_text1 "ASHMI"
+dia_rev_handl.revh_text2 ""
+dia_rev_handl.revh_text3 "S.M"
+dia_rev_handl.revh_number " "
+dia_rev_handl.revh_mark_enable 1
+dia_rev_handl.revh_text1_enable 1
+dia_rev_handl.revh_text2_enable 1
+dia_rev_handl.revh_text3_enable 1
+dia_rev_handl.revh_text4 "FIRST ISSUE"
+dia_rev_handl.revh_text5 "1"
+dia_rev_handl.revh_text6 ""
+dia_rev_handl.revh_text7 "10/02/2021"
+dia_rev_handl.extra5 ""
+dia_rev_handl.revh_text4_enable 1
+dia_rev_handl.revh_text5_enable 1
+dia_rev_handl.revh_text6_enable 1
+dia_rev_handl.revh_text7_enable 1
+dia_rev_handl.extra5_enable 1
+dia_rev_handl.aInFile "RDS_Rev0"
+dia_rev_handl.aOutFile "RDS_Rev0"

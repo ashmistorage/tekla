@@ -1,0 +1,729 @@
+*** Save 26.02.2021 08:03:09
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 08:03:18
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 08:24:40
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 08:25:35
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 26.02.2021 08:34:07
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 08:34:35
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 08:35:31
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 08:37:32
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 08:46:46
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 08:55:08
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 08:55:42
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 09:15:47
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 26.02.2021 09:19:43
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 26.02.2021 11:03:11
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 11:04:21
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 11:11:20
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 11:22:13
+*** User: S1042
+*** Version: 20.0 Service Release 10
+Conflict 'Modified object modified': Assembly, id: 501771
+Conflict 'Modified object modified': Part, id: 501768
+Conflict 'Modified object modified': Assembly, id: 501758
+Conflict 'Modified object modified': Part, id: 501755
+Conflict 'Modified object modified': Assembly, id: 501745
+Conflict 'Modified object modified': Part, id: 501742
+Conflict 'Modified object modified': Assembly, id: 501732
+Conflict 'Modified object modified': Part, id: 501729
+Conflict 'Modified object modified': Assembly, id: 501719
+Conflict 'Modified object modified': Part, id: 501716
+Conflict 'Modified object modified': Part, id: 501636
+Conflict 'Modified object modified': Assembly, id: 501637
+*** 12 conflict(s) detected
+
+*** Save 26.02.2021 11:22:49
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 11:16:43
+*** User: s1040
+*** Version: 20.0 Service Release 10
+Conflict 'Connected object modified': Joint, id: 2412814 Related id: 501716
+Conflict 'Connected object modified': Joint, id: 2417298 Related id: 501742
+Conflict 'Connected object modified': Joint, id: 2414666 Related id: 501729
+Conflict 'Connected object modified': Joint, id: 2419520 Related id: 501755
+Conflict 'Connected object modified': Joint, id: 2422152 Related id: 501768
+Conflict 'Modified object modified': Assembly, id: 501771
+Conflict 'Modified object modified': Part, id: 501768
+Conflict 'Modified object modified': Assembly, id: 501758
+Conflict 'Modified object modified': Part, id: 501755
+Conflict 'Modified object modified': Assembly, id: 501745
+Conflict 'Modified object modified': Part, id: 501742
+Conflict 'Modified object modified': Assembly, id: 501732
+Conflict 'Modified object modified': Part, id: 501729
+Conflict 'Modified object modified': Assembly, id: 501719
+Conflict 'Modified object modified': Part, id: 501716
+*** 15 conflict(s) detected
+
+*** Save 26.02.2021 11:29:22
+*** User: S1042
+*** Version: 20.0 Service Release 10
+Conflict 'Modified object modified': Part, id: 501665
+Conflict 'Modified object modified': Assembly, id: 501666
+Conflict 'Modified object modified': Part, id: 501661
+Conflict 'Modified object modified': Assembly, id: 501662
+Conflict 'Modified object modified': Part, id: 501657
+Conflict 'Modified object modified': Assembly, id: 501658
+Conflict 'Modified object modified': Part, id: 501653
+Conflict 'Modified object modified': Assembly, id: 501654
+*** 8 conflict(s) detected
+
+*** Save 26.02.2021 11:27:06
+*** User: s1040
+*** Version: 20.0 Service Release 10
+Conflict 'Connected object modified': Joint, id: 2380431 Related id: 501653
+Conflict 'Modified object modified': Assembly, id: 501654
+Conflict 'Modified object modified': Part, id: 501653
+Conflict 'Modified object modified': Assembly, id: 501658
+Conflict 'Modified object modified': Part, id: 501657
+Conflict 'Modified object modified': Assembly, id: 501662
+Conflict 'Modified object modified': Part, id: 501661
+Conflict 'Modified object modified': Assembly, id: 501666
+Conflict 'Modified object modified': Part, id: 501665
+Conflict 'Modified object modified': Assembly, id: 501672
+Conflict 'Modified object modified': Part, id: 501671
+Conflict 'Connected object modified': Joint, id: 2400147 Related id: 501671
+Conflict 'Connected object modified': Joint, id: 2398761 Related id: 501665
+Conflict 'Connected object modified': Joint, id: 2397575 Related id: 501665
+Conflict 'Connected object modified': Joint, id: 2396464 Related id: 501661
+Conflict 'Connected object modified': Joint, id: 2394432 Related id: 501661
+Conflict 'Connected object modified': Joint, id: 2393121 Related id: 501657
+Conflict 'Connected object modified': Joint, id: 2391810 Related id: 501657
+Conflict 'Connected object modified': Joint, id: 2390399 Related id: 501653
+*** 19 conflict(s) detected
+
+*** Save 26.02.2021 11:27:57
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 11:29:58
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 11:30:34
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 11:31:44
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 11:41:23
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 11:34:36
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 11:50:21
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 11:46:59
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 11:54:35
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 11:55:23
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 11:58:35
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 12:10:44
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 12:08:57
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 12:20:45
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 12:42:32
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 12:47:46
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 13:53:31
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 13:55:08
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 13:55:29
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 14:07:06
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 26.02.2021 14:07:48
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 10:09:51
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 10:07:53
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 10:22:18
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 10:25:40
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 10:31:21
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 10:33:19
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 10:43:13
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 10:45:35
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 10:52:45
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 10:53:09
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 11:17:30
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 11:18:15
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 11:28:25
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 11:30:03
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 11:40:42
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 11:41:20
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 27.02.2021 12:13:56
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 12:15:14
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 12:23:28
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 12:50:52
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 12:56:09
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 12:56:29
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 13:30:16
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 13:32:01
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 27.02.2021 13:50:04
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 27.02.2021 14:05:12
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 27.02.2021 14:01:23
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 14:16:25
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 14:13:24
+*** User: s1040
+*** Version: 20.0 Service Release 10
+Conflict 'Modified object modified': Part, id: 502834
+Conflict 'Connected object modified': Joint, id: 2574041 Related id: 502834
+Conflict 'Object father modified': Fitting, id: 2572481 Related id: 502834
+Conflict 'Connected object modified': Welding, id: 2572508 Related id: 502834
+*** 4 conflict(s) detected
+
+*** Save 27.02.2021 14:14:04
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 14:25:03
+*** User: S1042
+*** Version: 20.0 Service Release 10
+Conflict 'Modified object modified': Assembly, id: 502038
+*** 1 conflict(s) detected
+
+*** Save 27.02.2021 14:25:22
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 14:18:29
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 14:20:09
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 14:35:55
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 14:38:41
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 14:39:36
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 27.02.2021 14:52:23
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 14:55:18
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 14:55:46
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 15:00:46
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 27.02.2021 14:53:51
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 14:54:56
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 15:03:08
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 15:04:38
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 15:12:42
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 15:15:34
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 27.02.2021 15:09:01
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 15:17:03
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 15:09:39
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 15:26:17
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 15:34:14
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 15:42:03
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 15:34:34
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 15:36:10
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 27.02.2021 15:43:25
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 15:57:54
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 15:54:53
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 16:07:23
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 27.02.2021 16:20:06
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 16:23:10
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 16:23:47
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 16:34:22
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 16:44:52
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 16:40:53
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 17:00:03
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 17:04:06
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 27.02.2021 16:59:49
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 17:09:01
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 17:10:32
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 27.02.2021 17:14:14
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 17:23:53
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 17:33:09
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 17:27:45
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 17:35:42
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 17:35:08
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 27.02.2021 17:52:21
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 17:58:34
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 18:01:25
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 18:21:33
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 18:21:48
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 27.02.2021 18:18:51
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 18:22:34
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 18:23:47
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 18:27:42
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 18:29:00
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 27.02.2021 18:29:15
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 04.03.2021 10:56:35
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 04.03.2021 11:02:55
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Autosave 04.03.2021 11:29:22
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 04.03.2021 11:59:38
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 04.03.2021 11:59:55
+*** User: s1040
+*** Version: 20.0 Service Release 10
+*** No conflicts
+

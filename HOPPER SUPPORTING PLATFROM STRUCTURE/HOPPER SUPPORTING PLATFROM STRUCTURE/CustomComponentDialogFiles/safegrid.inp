@@ -1,0 +1,17 @@
+page("TeklaStructures","")
+{
+   macro(1, "safegrid")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Length", "P1", distance, number, 1)
+           parameter("Width", "P2", distance, number, 2)
+           parameter("spacing long", "P3", distance, number, 3)
+           parameter("spacing short", "P5", distance, number, 4)
+           parameter("edging", "P7", profile, text, 5)
+           parameter("bar y", "P8", profile, text, 6)
+           parameter("bar x", "P11", profile, text, 7)
+           parameter("MATERIAL", "P12", material, text, 8)
+       }
+   }
+}

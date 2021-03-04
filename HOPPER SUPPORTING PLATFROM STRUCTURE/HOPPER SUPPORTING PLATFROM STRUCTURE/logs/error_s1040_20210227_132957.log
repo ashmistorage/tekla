@@ -1,0 +1,7 @@
+ASSERT: 27.02.2021 13:53:21 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 78
+ASSERT: 27.02.2021 13:53:27 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 78
+ASSERT: 27.02.2021 15:12:51 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 78
+ASSERT: 27.02.2021 16:50:15 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 78
+ASSERT: 27.02.2021 16:50:28 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 78
+ASSERT: 27.02.2021 16:50:40 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 78
+ASSERT: 27.02.2021 17:54:30 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 78

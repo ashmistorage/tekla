@@ -1,0 +1,12 @@
+page("TeklaStructures","")
+{
+   joint(1, "PostCut")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Parameter3", "P3", string, text, 1)
+           parameter("Parameter2", "P2", distance, number, 2)
+           parameter("D3.CUTPART.STANCHION", "D3", distance, number, 3)
+       }
+   }
+}

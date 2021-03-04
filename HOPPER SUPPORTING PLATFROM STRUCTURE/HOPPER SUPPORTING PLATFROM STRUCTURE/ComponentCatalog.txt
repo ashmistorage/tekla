@@ -1,0 +1,113 @@
+-100	TJ_HWeldPrep_det	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\TJ_BeamWeldPrepDet_thm.bmp
+-10	BS_I_TC_BC	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_BS_I_TC_BC.bmp
+-10	BS_I_TC_BC_C	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_BS_I_TC_BC_C.bmp
+-10	BS_I_TP&C_BC_B	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_BS_I_TP&C_BC_B.bmp
+-10	PG_CSHAPEFLANGE	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_PG_CSHAPEFLANGE.bmp
+-10	BS_CH_P_C	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_BS_CH_P_C.bmp
+-10	BS_CH_TP_BP_B	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_BS_CH_TP_BP_B.bmp
+-10	BS_CH_TP_BP_C	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_BS_C_TP_BP_C.bmp
+-10	BS_C_B	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_BS_C_B.bmp
+-10	BS_C_C	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_BS_C_C.bmp
+-10	BS_C_C1	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_BS_C_C.bmp
+-10	BS_C_TP_BP_B	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_BS_C_TP_BP_B.bmp
+-10	BS_C_TP_BP_C	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_BS_C_TP_BP_C.bmp
+-100	FIRE_PROOF	All
+THUMBNAIL	IND_Fire_proof_tn.bmp
+-1000	Chevron_Beam_Beam	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\ChevronBM_BM.bmp
+-100	Chevron_Bottom	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\ChevronBM_Base.bmp
+-1000	WT_HorzBrace	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\WTHorz_Brace.bmp
+-10	Nut	All
+THUMBNAIL	NUT.bmp
+-10000	ES	All
+-10000	ZPURLIN	All
+-100	PipeWeldPrepDetail_r3	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\PipeWeldPrep_thm1.bmp
+-10	PG_ANGLES_B	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_PG_ANGLES_B.bmp
+-10	PG_TP_BP_B	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_PG_TP_BP_B.bmp
+-10	PG_TP_BP_C	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\et_element_PG_TP_BP_C.bmp
+-1000	PostCut	All
+-10	safegrid	All
+THUMBNAIL	I:\New folder (2)\New folder\HOPPER SUPPORTING PLATFROM STRUCTURE\attributes\safegrid.bmp
+-1000	Sagrod	All
+THUMBNAIL	IND_sag-rod1_tn.bmp
+-1000	Side Runner (1R)	All
+THUMBNAIL	Side Runner1_tn.bmp
+-1000	Step1	All
+-10000	TC	All
+-100000	Auto bolt	All|Plugins
+-200000	Cap plate detail	All|Plugins
+THUMBNAIL	et_element_CapPlateDetail
+-100000	Floor Tool	All|Plugins
+THUMBNAIL	et_element_FloorTool
+-200000	Gusset+T	All|Plugins
+-100000	Hollowcore Lifting Loops	All|Plugins
+THUMBNAIL	et_element_HollowCoreLiftingLoops
+-100000	Hollowcore Opening Tool	All|Plugins
+THUMBNAIL	et_element_HollowCoreOpeningTool
+-100000	Layout Line	All|Plugins
+THUMBNAIL	et_element_LayoutLinePlugin
+-100000	Layout Point	All|Plugins
+THUMBNAIL	et_element_LayoutPointPlugin
+-100000	Linear array tool	All|Plugins
+-100000	Multi Wire Size Mesh	All|Plugins
+THUMBNAIL	et_element_MultiWireSizeMesh
+-100000	No paint area	All|Plugins
+THUMBNAIL	et_element_NoPaintArea
+-100000	Opening Frame	All|Plugins
+THUMBNAIL	et_element_OpeningFrame
+-200000	Pipe Doubler Plate	All|Plugins
+THUMBNAIL	et_element_PipeDoublerPlate
+-100000	Radial Grid	All|Plugins
+THUMBNAIL	et_element_RadialGrid
+-100000	Radial array tool	All|Plugins
+-100000	Rebar hole	All|Plugins
+-200000	RingPlate	All|Plugins
+-200000	Sandwich Wall Horizontal Seam	All|Plugins
+THUMBNAIL	et_element_SandwichWallHorizontalSeam
+-200000	Sandwich Wall Vertical Seam	All|Plugins
+THUMBNAIL	et_element_SandwichWallVerticalSeam
+-100000	Sandwich Wall Window	All|Plugins
+THUMBNAIL	et_element_SandwichWallWindow
+-100000	Sandwich and Double Wall	All|Plugins
+THUMBNAIL	et_element_SandwichAndDoubleWall
+-100000	Seam Applicator	All|Plugins
+THUMBNAIL	et_element_SeamApplicator
+-100000	Ship Ladder	All|Plugins
+THUMBNAIL	et_element_ShipLadder
+-100000	Slab Reinforcement Tool	All|Plugins
+THUMBNAIL	et_element_SlabReinforcementTool
+-100000	Sloping Slab Drainage	All|Plugins
+THUMBNAIL	et_element_SlopingSlabDrainage
+-100000	Strand Pattern	All|Plugins
+THUMBNAIL	et_element_StrandPattern
+-100	TJ_HFlgWeldPrepV_det	All|Custom
+-100	TJ_HWebScallop_det	All|Custom
+-100	TJ_HWebWeldPrepK_det	All|Custom
+-200000	Tube-Chamfer	All|Plugins
+-200000	Tube-Crossing Saddle	All|Plugins
+THUMBNAIL	et_element_Tube-CrossingSaddle
+-200000	Tube-MitreSaddle+Hole	All|Plugins
+-200000	Tube-Saddle+Hole	All|Plugins
+-200000	Tube-Slotted Hole	All|Plugins
+THUMBNAIL	et_element_Tube-SlottedHole
+-100000	Wall Rails	All|Plugins
+THUMBNAIL	et_element_WallRails

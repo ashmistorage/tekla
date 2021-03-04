@@ -1,0 +1,12 @@
+page("TeklaStructures","")
+{
+   macro(1, "Nut")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Size", "P1", profile, text, 1)
+           parameter("Grade", "P2", material, text, 2)
+           parameter("Nut Thickness", "P4", distance, number, 3)
+       }
+   }
+}

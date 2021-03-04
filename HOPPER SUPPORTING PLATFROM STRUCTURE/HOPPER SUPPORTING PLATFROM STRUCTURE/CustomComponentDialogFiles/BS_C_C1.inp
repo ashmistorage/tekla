@@ -1,0 +1,24 @@
+page("TeklaStructures","")
+{
+   macro(1, "BS_C_C1")
+   {
+       tab_page("", " Picture ", 1)
+       {
+           picture("EIL_C_BOX", 180,150,100,50)
+	   parameter("Bottom Level", "P1", distance, number, 10)
+           parameter("Top Level", "P2", distance, number, 11)
+           parameter("", "P3", profile, text, 280,45,100)
+           parameter("", "P4", distance, number, 365,135,50)
+           parameter("Material", "P5", material, text, 12)
+           
+       }
+         tab_page("", " Numbering Series ", 2)
+       {
+           picture("numbering_series", 450,150,50,50)
+           parameter("", "P6", string, text, 300,100,75)
+           parameter("", "P7", integer, number, 500,100,75)
+           parameter("", "P8", string, text, 300,130,75)
+           parameter("", "P9", integer, number, 500,130,75)
+          }
+   }
+}

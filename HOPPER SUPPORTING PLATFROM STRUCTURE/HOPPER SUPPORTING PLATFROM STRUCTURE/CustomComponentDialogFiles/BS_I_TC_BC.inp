@@ -1,0 +1,47 @@
+page("TeklaStructures", "")
+{
+    macro(1, "BS_I_TC_BC")
+    {
+        tab_page("", "Picture", 1)
+        {
+            parameter("", "P4", distance, number, 150, 265, 80)
+            parameter("", "P6", distance, number, 150, 370, 80)
+            parameter("", "P5", distance, number, 610, 265, 80)
+            parameter("", "P7", distance, number, 610, 370, 80)
+            parameter("", "P15", YesNo, number, 150, 60, 80)
+            parameter("", "P16", YesNo, number, 150, 180, 80)
+            picture("EIL_I+C+C11", 234, 284, 250, 49)
+        }
+
+       tab_page("", "Parts", 2)
+
+       {
+            profile ("Beam Profile ", PR1_1, PR2_1, PR3_1, PR4_1, PR5_1, 1)
+
+            profile ("Top Profile ", PR1_2, PR2_2, PR3_2, PR4_2, PR5_2, 4)
+
+            profile ("Bottom Profile ", PR1_3, PR2_3, PR3_3, PR4_3, PR5_3, 7)
+
+            attribute("", "Assembly Name", label, "%s", none, none, "0", "0", 18, 250 )
+
+            parameter("", "NAME", string, text, 200, 250, 140)
+       }
+ 
+      tab_page("", "Welds", 3)
+       
+      {
+	attribute("Header1", "No       Size                 Type                         Length", label, "%s", no, none, "0.0", "0.0") 
+	attribute("Header2", "Wshop/site", label, "%s", no, none, "0.0", "0.0",395,0) 
+
+	attribute("weld", "1", label, "%s", no, none, "0.0", "0.0",2) 
+	parameter("", "WA1", distance, number, 64,30,60) 
+	parameter("", "WB1", distance, number, 64,56,60) 
+	parameter("", "WA2", weld_type, number, 160,30,100) 
+	parameter("", "WB2", weld_type, number, 160,56,100) 
+	parameter("", "WA3", distance, number, 294,30,60) 
+	parameter("", "WB3", distance, number, 294,56,60) 
+	parameter("", "WSS", welding_site, number, 398,43,60) 
+
+        }
+    }
+}

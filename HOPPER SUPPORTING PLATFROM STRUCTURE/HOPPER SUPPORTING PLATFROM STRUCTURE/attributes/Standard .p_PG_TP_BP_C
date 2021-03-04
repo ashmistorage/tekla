@@ -1,0 +1,24 @@
+joint_attributes.saveas_file "Standard "
+joint_attributes.get_menu "< ExternalDesign >"
+joint_attributes.name_enable 1
+joint_attributes.AtDepthValue 0.000000
+joint_attributes.AtDepth 0
+joint_attributes.RotationValue 0.000000
+joint_attributes.Rotation 1
+joint_attributes.OnPlaneValue 0.000000
+joint_attributes.OnPlane 0
+joint_attributes.P20 1
+joint_attributes.P19 "C"
+joint_attributes.P18 1
+joint_attributes.P16 "IS2062"
+joint_attributes.P15 10
+joint_attributes.P14 8
+joint_attributes.P12 500.000000
+joint_attributes.P11 15.000000
+joint_attributes.P9 20.000000
+joint_attributes.P7 500.000000
+joint_attributes.P6 20.000000
+joint_attributes.P4 500.000000
+joint_attributes.P3 35.000000
+joint_attributes.P2 0.000000
+joint_attributes.P1 6000.000000

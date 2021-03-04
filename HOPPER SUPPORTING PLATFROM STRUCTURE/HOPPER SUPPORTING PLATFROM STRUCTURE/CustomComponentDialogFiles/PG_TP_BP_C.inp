@@ -1,0 +1,66 @@
+page("TeklaStructures", "")
+{
+    macro(1, "PG_TP_BP_C")
+    {
+        tab_page("", "Picture", 1)
+        {
+            picture("EIL_I_top_bottom_plate1_c", 240, 160, 641, 138)
+            parameter("", "P1", distance, number, 385, 20, 100)
+            parameter("", "P2", distance, number, 385, 365, 100)
+            parameter("", "P3", distance, number, 671, 258, 70)
+            parameter("", "P4", distance, number, 985, 235, 70)
+            parameter("", "P6", distance, number, 985, 160, 70)
+            parameter("", "P7", distance, number, 755, 110, 70)
+            parameter("", "P9", distance, number, 985, 310, 70)
+            parameter("", "P11", distance, number, 552, 310, 70)
+            parameter("", "P12", distance, number, 755, 368, 70)
+            parameter("", "P21", YesNo, number, 552, 160, 70)
+            parameter("", "P22", YesNo, number, 552, 361, 70)
+            parameter("", "P23", distance, number, 70, 400, 80)
+            parameter("", "P24", distance, number, 70, 110, 80)
+            picture("EIL_I_TO_BO_PL_COL_1", 222, 340, 154, 48)
+        }
+
+       tab_page("", "Parts", 2)
+
+       {
+            profile ("Web Plate", PR1_1, PR2_1, PR3_1, PR4_1, PR5_1, 1)
+
+            profile ("Flange Plate", PR1_2, PR2_2, PR3_2, PR4_2, PR5_2, 4)
+
+            profile ("Top,Bot Plate", PR1_3, PR2_3, PR3_3, PR4_3, PR5_3, 7)
+
+            attribute("", "Assembly Name", label, "%s", none, none, "0", "0", 18, 250 )
+
+            parameter("", "NAME", string, text, 200, 250, 140)
+       }
+ 
+      tab_page("", "Welds", 3)
+       
+      {
+	attribute("Header1", "No       Size                 Type                         Length", label, "%s", no, none, "0.0", "0.0") 
+	attribute("Header2", "Wshop/site", label, "%s", no, none, "0.0", "0.0",395,0) 
+
+	attribute("weld1", "1", label, "%s", no, none, "0.0", "0.0",2) 
+	parameter("", "WA1_1", distance, number, 64,30,60) 
+	parameter("", "WB1_1", distance, number, 64,56,60) 
+	parameter("", "WA2_1", weld_type, number, 160,30,100) 
+	parameter("", "WB2_1", weld_type, number, 160,56,100) 
+	parameter("", "WA3_1", distance, number, 294,30,60) 
+	parameter("", "WB3_1", distance, number, 294,56,60) 
+	parameter("", "WSS_1", welding_site, number, 398,43,60) 
+
+	attribute("weld2", "2", label, "%s", no, none, "0.0", "0.0",5) 
+	parameter("", "WA1_2", distance, number, 64,95,60) 
+	parameter("", "WB1_2", distance, number, 64,121,60) 
+	parameter("", "WA2_2", weld_type, number, 160,95,100) 
+	parameter("", "WB2_2", weld_type, number, 160,121,100) 
+	parameter("", "WA3_2", distance, number, 294,95,60) 
+	parameter("", "WB3_2", distance, number, 294,121,60) 
+	parameter("", "WSS_2", welding_site, number, 398,108,60) 
+
+        }
+
+
+    }
+}

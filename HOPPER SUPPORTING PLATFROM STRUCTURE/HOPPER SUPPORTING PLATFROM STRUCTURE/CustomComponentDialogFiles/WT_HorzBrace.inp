@@ -1,0 +1,21 @@
+page("TeklaStructures","")
+{
+   joint(1, "WT_HorzBrace")
+   {
+       tab_page("", " Parameters 1 ", 1)
+       {
+           parameter("Vertex Vertical Offset", "P1", distance, number, 1)
+           parameter("Outer Ends Vertical Offset", "P2", distance, number, 2)
+           parameter("Vertex Work Point Gap", "P3", distance, number, 3)
+           parameter("Name", "P4", string, text, 4)
+           parameter("Profile", "P5", profile, text, 5)
+           parameter("Material", "P6", material, text, 6)
+           parameter("Finish", "P7", string, text, 7)
+           parameter("Class", "P8", string, text, 8)
+           parameter("Part Prefix", "P9", string, text, 9)
+           parameter("Part No", "P10", integer, number, 10)
+           parameter("Assembly Prefix", "P11", string, text, 11)
+           parameter("Assembly No", "P12", integer, number, 12)
+       }
+   }
+}

@@ -1,0 +1,20 @@
+page("TeklaStructures","")
+{
+   detail(1, "PipeWeldPrepDetail_r3")
+   {
+       helpurl("TeklaInc_CC.chm::/default.html")
+       tab_page("", "j_Weld_Prep", 1)
+       {
+           attribute("Prof_user", "", option,"%s",  none, none, "0.0", "0.0", 300, 50, 160)
+           {
+             value("j_auto", 1)
+             value("albl_Round_tube_profiles", 0)
+             value("albl_Square_tube_profiles",  0)
+           }
+           picture("usa_pipe_weld_prep_detail",320,111,100,100)
+           parameter(" jd_weld_Angle", "PrepAng", distance, number, 550, 150, 60)
+           parameter(" jd_weld_Root_opening", "PrepRFG", distance, number, 50, 180, 60)
+           parameter(" jd_weld_RFT", "PrepRFT", distance, number, 410, 230, 60)
+       }
+   }
+}

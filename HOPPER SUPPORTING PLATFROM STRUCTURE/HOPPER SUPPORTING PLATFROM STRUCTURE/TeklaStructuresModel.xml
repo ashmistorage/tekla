@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TeklaStructuresModels>
+<TeklaStructuresModels>
+<Model>
+<Name>
+HOPPER SUPPORTING PLATFROM STRUCTURE
+</Name>
+<Designer>
+ 
+</Designer>
+<Description>
+ 
+</Description>
+<Version>
+20.0 Service Release 10
+</Version>
+<Language>
+enu
+</Language>
+<Template>
+
+</Template>
+<Environment>
+india
+</Environment>
+<IsTemplate>
+FALSE
+</IsTemplate>
+<XS_PROJECT>
+
+</XS_PROJECT>
+<XS_FIRM>
+
+</XS_FIRM>
+<XS_SYSTEM>
+C:\ProgramData\Tekla Structures\20.0\\environments\india\system\;;C:\ProgramData\Tekla Structures\20.0\\environments\common\system\;C:\ProgramData\Tekla Structures\20.0\\environments\common\system\ConstructionManagement\
+</XS_SYSTEM>
+</Model>
+</TeklaStructuresModels>
+

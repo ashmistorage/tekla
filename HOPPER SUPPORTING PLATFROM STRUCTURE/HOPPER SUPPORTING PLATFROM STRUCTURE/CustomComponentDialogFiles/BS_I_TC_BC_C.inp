@@ -1,0 +1,32 @@
+page("Xsteel","")
+{
+   macro(1, "BS_I_TC_BC_C")
+   {
+       tab_page("", " Picture ", 1)
+       {
+           picture("ICC-col1", 255,350,100,70)
+           parameter("", "P1", distance, number, 570,350,60)
+           parameter("", "P2", distance, number, 570,320,60)
+           parameter("", "P3", distance, number, 370,320,60)
+           parameter("", "P4", distance, number, 570,55,60)
+           parameter("", "P5", distance, number, 570,85,60)
+           parameter("", "P6", distance, number, 380,85,60)
+           parameter("", "P7", profile, text, 170,165,110)
+           parameter("", "P8", profile, text, 320,380,150)
+           parameter("", "P9", profile, text, 90,350,150)
+           parameter("Weld Size", "P10", integer, number, 16)
+           parameter("Weld Type", "P11", weld_type, number, 17)
+           parameter("Material", "P12", material, text, 18)
+           parameter("", "P17", YesNo, number, 110, 40, 70)
+           parameter("", "P18", YesNo, number, 270, 40, 70)
+       }
+tab_page("", " Numbering Series ", 2)
+       {
+           picture("numbering_series", 450,150,50,50)
+           parameter("", "P13", string, text, 300,100,75)
+           parameter("", "P14", integer, number, 500,100,75)
+           parameter("", "P15", string, text, 300,130,75)
+           parameter("", "P16", integer, number, 500,130,75)
+}
+   }
+}

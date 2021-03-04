@@ -1,0 +1,26 @@
+page("TeklaStructures","")
+{
+   joint(1, "Sagrod")
+   {
+tab_page("", " Parameters ", 1)
+       {
+           picture("IND_sag-rod1", 255,350,110,60)
+parameter("", "P1", distance, number, 145,95,80)
+parameter("", "D3", distance, number, 270,45,70)
+parameter("", "D11", distance, number, 370,45,70)
+parameter("", "D5", distance, number, 500,95,70)
+parameter("", "D1", distance, number, 220,370,70)
+parameter("", "D9", distance, number, 420,370,70)
+parameter("", "P3", YesNo, number, 270,240,70)
+parameter("", "P4", YesNo, number, 370,240,70)
+attribute("Creation", "Creation", label2, "%s",  none, none, "0.0", "0.0", 330,220,200)
+parameter("Sag rod profile", "P5", profile, text, 17)
+parameter("Hole tolerance", "P6", distance, number, 18)
+parameter("Sag rod name", "P7", string, text, 19)
+           parameter("Sag rod material", "P8", material, text, 20)
+           parameter("Numbering (Part Prefix)", "P9", string, text, 21)
+           parameter("Numbering (Part Series)", "P10", string, text, 22)
+       }
+       
+   }
+}
