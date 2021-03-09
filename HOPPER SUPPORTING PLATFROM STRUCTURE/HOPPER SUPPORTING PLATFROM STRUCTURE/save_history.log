@@ -772,6 +772,7 @@ Conflict 'Modified object modified': Assembly, id: 502038
 *** Version: 20.0 Service Release 10
 *** No conflicts
 
+<<<<<<< HEAD
 *** Save 04.03.2021 17:53:56
 *** User: s1040
 *** Version: 20.0 Service Release 10
@@ -793,6 +794,30 @@ Conflict 'Modified object modified': Assembly, id: 502038
 *** No conflicts
 
 *** Save 04.03.2021 18:19:19
+*** User: s1040
+=======
+*** Save 04.03.2021 17:54:02
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 04.03.2021 17:54:06
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 04.03.2021 18:08:45
+*** User: S1042
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 04.03.2021 18:11:34
+*** User: S1042
+>>>>>>> 356b3cf23452169c81672cf5e6490665dddc7f22
+*** Version: 20.0 Service Release 10
+*** No conflicts
+
+*** Save 09.03.2021 10:40:46
 *** User: s1040
 *** Version: 20.0 Service Release 10
 *** No conflicts
